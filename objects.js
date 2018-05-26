@@ -3,6 +3,6 @@ const playlist = {
 };
 
 function updatePlaylist(playList, artistName, songTitle) {
-  updatePlaylist.artistName = songTitle;
+  playlist.artistName = songTitle;
   return playList;
 }
