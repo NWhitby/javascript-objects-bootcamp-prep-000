@@ -1,3 +1,3 @@
 const playlist = {
-  song: 'track 1'
+  artist1: 'song 1'
 };
